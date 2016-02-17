@@ -6,3 +6,5 @@
 - Bookmarks
 ## editing ##
 - inject language
+- Virtual space at the end of line
+- expand reduce select in scope
