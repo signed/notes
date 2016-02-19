@@ -4,6 +4,7 @@
 - https://www.jetbrains.com/idea/help/selecting-text-in-the-editor.html#d1544049e255
 ## Navigating ##
 - Bookmarks
+- breadcrumbs
 ## editing ##
 - inject language
 - Virtual space at the end of line
