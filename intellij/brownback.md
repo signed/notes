@@ -10,5 +10,6 @@
 - inject language
 - Virtual space at the end of line
 - expand reduce select in scope
+- show parameters CTRL+P
 ### Java
 - postfix operators new StringBuilder().var 
