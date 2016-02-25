@@ -11,5 +11,6 @@
 - Virtual space at the end of line
 - expand reduce select in scope
 - show parameters CTRL+P
+- show source at target CTRL-I
 ### Java
 - postfix operators new StringBuilder().var 
