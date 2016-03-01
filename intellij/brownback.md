@@ -12,6 +12,10 @@
 - expand reduce select in scope
 - show parameters CTRL+P
 - show source at target CTRL-I
+- shortcuts work everywhere
+-- Run Tests from OpenType
+-- Run refactorings in the project view for an entire directory
+-- ...
 ### Java
 - postfix operators new StringBuilder().var 
 - extract local variable/field from a string
