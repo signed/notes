@@ -16,6 +16,7 @@
 -- Run Tests from OpenType
 -- Run refactorings in the project view for an entire directory
 -- ...
+- Multi Clipboard CTRL-SHIFT-V
 ### Java
 - postfix operators new StringBuilder().var 
 - extract local variable/field from a string
