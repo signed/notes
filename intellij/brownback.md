@@ -2,10 +2,12 @@
 - enable tip of the day Help -> Tip of the day
 ## Selecting Text
 - https://www.jetbrains.com/idea/help/selecting-text-in-the-editor.html#d1544049e255
-## Navigating 
+## Navigating
 - Bookmarks
 - breadcrumbs
-## editing 
+- jump to last edited location
+- show last edited files
+## editing
 ### General
 - inject language
 - Virtual space at the end of line
@@ -17,6 +19,9 @@
 -- Run refactorings in the project view for an entire directory
 -- ...
 - Multi Clipboard CTRL-SHIFT-V
+- Scratch files
+- compare with clipboard
+- camel hump word
 ### Java
-- postfix operators new StringBuilder().var 
+- postfix operators new StringBuilder().var
 - extract local variable/field from a string
