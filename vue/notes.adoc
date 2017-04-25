@@ -1,0 +1,41 @@
+= My vue cheat sheet
+
+== Binding properties
+v-bind:attribute=data::
+keeps the value of attribute in sync with the value of data
+
+:attribute=data::
+short hand notation for `v-bind:attribute=data`
+
+v-on::
+parent component can listen to the events emitted from a child component using `v-on` directly in the template where the child component is used.
+
+v-model::
+Two way data binding. If used like this
+[[app-listing]]
+[source,html]
+----
+<input v-model="something">
+----
+
+it is just syntactic sugar for
+[[app-listing]]
+[source,html]
+----
+<input
+  v-bind:value="something"
+  v-on:input="something = $event.target.value">
+----
+
+== Communication between components
+props::
+Parent to  Child data passing.
+Defined parameters a component accepts.
+
+events::
+Used to notify other components of changes
+
+[qanda]
+What is Asciidoctor?::
+  An implementation of the AsciiDoc processor in Ruby.
+What is the answer to the Ultimate Question?:: 42
