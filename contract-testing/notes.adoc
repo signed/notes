@@ -1,0 +1,29 @@
+https://martinfowler.com/articles/consumerDrivenContracts.html
+https://martinfowler.com/bliki/TolerantReader.html
+
+https://www.w3.org/2001/tag/doc/versioning
+
+- Knowing your clients
+- Authentication
+
+
+- Adding new fields can break applications
+- Adding new status codes can break an application
+-
+
+
+Must Ignore pattern: The simplest model requires consumers to ignore elements that they do not recognize - hence the name of the pattern
+
+
+= Talks
+Integrated Tests Are A Scam http://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam
+
+= Libaries
+== Spring
+https://spring.io/guides/gs/contract-rest/
+https://cloud.spring.io/spring-cloud-contract/
+
+
+== Pact
+https://docs.pact.io/
+https://blog.risingstack.com/consumer-driven-contract-testing-with-pact/
