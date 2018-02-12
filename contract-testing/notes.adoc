@@ -34,6 +34,7 @@ https://bitbucket.org/atlassian/swagger-request-validator
 === Sample code bases
 https://github.com/Mikuu/Pact-JVM-Example
 === Videos
+https://speakerdeck.com/alonpeer/move-fast-and-consumer-driven-contract-test-things
 https://www.youtube.com/watch?v=M4chSbbhAqU
 https://www.youtube.com/watch?v=A5D6wcPK8Ig
 https://www.youtube.com/watch?v=-6x6XBDf9sQ
