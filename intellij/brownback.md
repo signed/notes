@@ -25,3 +25,8 @@
 ### Java
 - postfix operators new StringBuilder().var
 - extract local variable/field from a string
+
+
+# Plugins
+- https://github.com/zalando/intellij-swagger
+-

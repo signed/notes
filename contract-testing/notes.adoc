@@ -25,5 +25,22 @@ https://cloud.spring.io/spring-cloud-contract/
 
 
 == Pact
+https://github.com/pact-foundation
 https://docs.pact.io/
 https://blog.risingstack.com/consumer-driven-contract-testing-with-pact/
+https://bitbucket.org/atlassian/swagger-mock-validator
+https://github.com/DiUS/pact-jvm
+https://bitbucket.org/atlassian/swagger-request-validator
+=== Sample code bases
+https://github.com/Mikuu/Pact-JVM-Example
+=== Videos
+https://www.youtube.com/watch?v=M4chSbbhAqU
+https://www.youtube.com/watch?v=A5D6wcPK8Ig
+https://www.youtube.com/watch?v=-6x6XBDf9sQ
+https://www.youtube.com/watch?v=h-79QmIV824
+
+== Java
+- https://github.com/Claudenw/junit-contracts
+
+== Not sure if this is the same topic
+https://github.com/pact-foundation/pact-specification/issues/28
