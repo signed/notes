@@ -1,0 +1,7 @@
+https://github.com/asciidoctor/asciidoctor-reveal.js
+https://asciidoctor.org/docs/asciidoctor-revealjs/
+https://asciidoctor.org/docs/asciidoctor.js/
+https://revealjs.com/
+
+http://asciidoctor.org/docs/user-manual/#ruby-api-options
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#attributes-and-substitutions
