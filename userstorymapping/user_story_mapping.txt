@@ -1,0 +1,457 @@
+
+
+
+User Story Mapping
+
+Martin Fowler
+“Story Mapping is a technique that provides the big picture a pile of stories so often misses.”
+
+chapter Read this first
+The key points one should take from this book
+# The goal of using stories is not to write better stories.
+# The goal of product development is not to make products.
+
+Shared documents are not shared understanding.
+
+Everybody interprets written text within his context. (Cake examples, Metric system vs Imperial system of measures)
+
+Shared understanding is intangible, you can’t see or touch it, but you can feel it
+
+> The real goal of stories is shared understanding
+
+A story acts as a reminder to previous conversations and consensus for people who toke part in the discussions. (Holiday picture example) different or even missing context for the observer/reader
+
+> To help remember, photograph and shoot short videos of the result of your conversations
+
+There is a difference between output and outcome
+http://vimeo.com/3730382
+
+> Good story conversations are about who and why, not just what.
+
+> Your company can not get what it wants unless your customers and users get what they want
+
+chapter 01
+
+> Stories get there name from how they should be used not what should be written
+
+> Story maps are for breaking down big stories as you tell them
+
+
+
+chapter 02
+
+scope does not creep; understanding grows
+
+
+
+## chapter 03 - Plan to learn faster ##
+
+Product owners do not have all the ideas
+Product owners take existing ideas and develop them
+Product owners take ownership of someone else’s ideas and help the team to take ownership
+
+
+>Your first story discussion is for framing the opportunity
+# What is the big idea
+# Who are the customers
+# Who would pay for the product
+# Why would they want it
+# Why are we building it? What is in it for us
+
+>Validate that the problems your are solving really exist
+# Talk to customers and users to learn about them
+# Figure out if the problem is real
+-> customer development partners (pool of people who could benefit from the new product)
+-> Do not start building software right now
+
+>Sketch and prototype so you can envision your solution
+T: User Scenarios (epics?): bunch of simple narrative stories to envision the product
+Do not dive directly into user stories and user story mapping.
+
+>Prototype and test with users to learn whether your solution is valuable and usable
+# Embrace negative user feedback, you got it early without investing much
+-> Pretty good/viable Solution Idea based on the prototypes discussed with users
+? Start building software ? No not sure that the solution is minimal
+
+If you show people cool Ideas they want to have them. But how much of the ideas you can take away and still have a viable solution that solves the initial problem (at least part of it)
+
+People who say they would use the product are also just guessing too.
+
+Only targeted outcome is, that people use the product on a daily bases (company makes money). This requires more than a prototype
+-> Build a less then minimal - and surely not viable - product and show it to interested people that honestly want this particular problem solved (a subset of the customer developer partner you already know that propose the greets learning)
+Build in some metrics to measure if and how the minimal product was used
+
+Listen to your Customers -> Prepare next slices -> Top prioritised slices move into the sprint 
+
+>Treat every release as an experiment and be mindful of what you want to learn
+Use a validated learning strategy
+Know your targeted users. Making all kinds of users happy is tough.
+
+Build-Measure-Learn Cycle Eric Ries
+Minimal Viable Product experiment -target-> learning what is minimal viable for my customer
+
+Iteratively improve the product until it is viable
+product discovery: The goal is not to get something build. Our goal is to figure out if we are building the right thing.
+
+Really minimise your experiments
+
+
+
+
+#  chapter 04 - Plan to finish on time  #
+
+>map only what you need to support your conversation
+Mapping just a single feature for an existing product is fine
+
+Use the Story Maps as method to talk to the team from a user perspective to generate shared understanding
+
+>the best estimations come from developers who really understand what they’re estimating
+Even if only the entire story map provides value for the customer, we still have to slice the work into manageable parts.
+Still do slices but do not release them e.g.
+ Slice 1: make it work        (Opening Game)
+ Slice 2: make it better      (Mid Game)
+ Slice 3: make it releasable  (End Game)
+
+First build a functional walking skeleton that cuts through the whole functionality.
+helps to discover with the unpredictable unpredictables a.k.a unknown unknowns
+
+You get a more accurate estimation if you have a lot of small similar tasks
+
+Manage your Budget
+# discover early if stuff takes longer then estimated, talk to the team
+
+>Great art is never finished, only abandoned 
+Mona Lisa with no eyebrows
+
+Iterative AND Incremental
+Everyone with a deadline recognises this strategy
+>Use iterative thinking to evaluate and make changes to what you’ve already made
+>Us incremental thinking to make additions
+iterative (Sprint after Sprint)
+incremental change the existing based on what you learned
+
+
+# chapter 05 - Story map about your daily morning routine#
+
+# chapter 06 - The real story about stories #
+
+lack of shared understanding often called “bad requirements” (when Requirement Documents are used)
+
+> We can booth read the same document, but have a different understanding of it.
+
+
+> The best solutions come from collaboration between the people with the problem to solve and the people who can solve them.
+
+
+> Stories get their name from how they are supposed to be used, not from what you are trying to write down
+
+> If you’re not getting together to have rich discussions about your stories, then you’re not you are not really using stories
+
+The Story process or the 3Cs
+# Card
+# Conversation 
+# Confirmation (together agree on how you’ll confirm that the software is done
+
+> Story conversations are about working together to arrive at a best solution to a problem we both understand
+
+# chapter 7 - Telling better stories 
+
+> It doesn’t need to be written in a template to be considered a story.
+
+Story templates as best learning practices
+
+Short title
+Who:   
+What:  
+Why:   
+
+Checklist of what to really talk about
+# Talk about who, not just the “user”. Be specific e.g. Jeff from operations or DevOps as a role
+  Think of different types of users
+  Make the distinction between choosers (people who decide to by the product) and the user (person who actually works with the product)
+# Talk about what
+. . . see book
+
+# chapter 8 - It’s not all on the card
+
+> There are many different kinds of conversations with different people for every story.
+
+There are way to many conversations to put them all on a card
+
+card catalog vs books
+user story card vs story
+
+Card is just a token to find the story details
+
+Alistair Cockburn: Agile Software Development: The Cooperative Game
+ Information Radiators and Ice Boxes
+
+Lumberjack meets guy in the woods with a hammer that tries to hack down a tree and hands him a saw. Guy starts hammering on the tree with the saw.
+
+Use the right tool for the job
+Use the tool right
+
+Coping with split teams
+> Use a document camera or web camera during a video conference to let remote people see what’s being created on the wall.
+> When collaborating remotely, use tools that allow everyone to see, add to, and organise the model concurrently.
+
+# chapter 9 - The card is just the beginning
+
+> Handing off all the details about the story to someone else to build doesn’t work. Don’t do that.
+
+Do not discuss in large groups. Form small focused groups and share the result.
+
+Demo: Let the customer use the software. Do not stage an act.
+
+# chapter 10 - Bake stories like cake
+Metaphor: Baking a cake is similar to building software
+
+Sydnie the families cake backer
+There is already a shared understanding because of numerous cakes ordered before.
+Parallel with team building: the longer a team works together the more shared understanding about building software there is.
+
+## Create a Recipe
+Software delivery tasks are like a recipe we thing about during the story conversation
+
+## Breaking down a big cake
+Problem: Told story is really big. But cards are all the same size.
+> If the story describes a solution that’s too expensive, consider a different solution that helps you reach the goal
+
+Even if you have the money to build the big story, cut it down.
+> If the story describes a solution that’s affordable but big, break it into smaller parts that allow you to evaluate and see progress sooner.
+-> People who pay get less nervous because they see progress
+
+> Don’t break down big things into big plans. Break big things into small things with small plans.
+Break your large software cake into into lots of little cupcakes to learn sooner.
+Avoid the risks combined with seeing, using or “tasting” too late.
+
+“You can deliver half a baked cake, not a half-baked cake. Half a backed cake may not be enough to feed a wedding party, but it’s enough to taste and leave everyone looking forward to the rest of the cake”
+
+Break big cakes into little cakes.
+
+# chapter 11 - Rock breaking
+
+## Size always matters
+Software is a lot less tangible than cake and therefore harder to measure.
+Users always write stories in a size ‘as they need’, not in something that would take only a short time to develop.
+> A right -sized story from a user’s perspective is one that fulfils a need
+
+Rule of thumb: break down stories to something that takes a couple of days to build and test
+> A right-size story from a development team’s perspective is on that takes just a fey days to build an test.
+
+> A right-size story from a business perspective is one that helps a business achieve a business outcome.
+
+## Stories are like rocks
+boulder vs. rock vs. pebble ; or maybe just rocks?
+The best tool to break down rocks is a mallet.
+The best tool to break down a story is a conversation.
+> Conversations are one of the best tools for breaking down big stories.
+
+The precision about size matters most when you’re the one being hit with the rock.
+Do not size your story. The wiggliness about what’s in a story and how big it should be is intentional.
+
+## Epics are big rocks sometime used to hit people
+Epic is a good name for a boulder
+> An epic is a story hat we expect is large, and know needs to be broken down.
+
+As a team member, don’t use the term epic as a stick to reprimand someone else.
+
+## Themes organise groups of stories
+Theme: describes a group of stories that it’s useful to group together.
+e.g. A bunch of stories that are required for the next release, part of the same story, relevant to a particular type of user, or related in some other way.
+
+## Forget those terms and focus on storytelling
+
+## Start with Opportunities
+Opportunity for us to make something that we’ll benefit from.
+> Use opportunity discussions to agree the problem is worth solving - to make a go-forward or trash decision
+
+## Discover a minimal viable solution
+Use discovery to find a solution worth building. 
+- Who the customers and users are you believe will use your solution
+- How they meet there needs today without your solution
+- How the world would change for them with your solution
+- Hour your solution might look and behave
+- How long your solution might take to build
+
+> Use discovery conversations and exploration to find a small, viable solution.
+
+Use stories to describe spikes that get your team building something to learn.
+The subset of stories that leads to a valuable product release is what I refer to as a release backlog.
+
+## Dive into the details of each story during delivery
+
+> Use deep-dive story workshops to discuss the details, break  down stories, and really agree on specifically what we’ll build.
+
+## Keep talking as you build
+> Use conversations as you build to fill in details and give feedback on what’s being build
+
+## Evaluate each piece
+> Frequently reflect on product quality, your plans, and the way you work
+
+## Evaluate with users and customers
+> Learn by testing meaningful chunks of working software with customers and users.
+
+## Evaluate with business stockholders
+> keep your progress and quality visible to stakeholders inside your organisation
+
+## Release and keep evaluating
+> use metrics and face time with users to really learn if your target outcomes were met.
+
+# chapter 12 - Rock breakers #
+
+Everybody is responsible to drive story progress, not only the Product Owner
+# avoid bottlenecks
+# one person can’t come into the conversation with the expertise and diverse viewpoints it takes to arrive at the best solution
+
+> Requiring a single product owner to write all of the stories and be present for all story conversations doesn’t world.
+
+> A small, cross-functional team led by a product owner orchestrates product discovery work.
+
+Product Discovery Team  (2 - 4 people)
+
+Focus on valuable usable feasible (the triad)
+> support product owners with a core team that includes user experience, design experts, and technical expertise.
+
+## A Discovery Team Needs Lots of Others to Succeed
+## The three amigos
+The three roles that have to participate in the story workshop (the one where all the details and different implementation alternatives are discussed)
+
+# Tester
+# Member of the core Discovery Team
+# user experience designer
+
+> Product Owner as Producer
+Producer like in music producer
+
+> When acting as product owner for other stakeholder’s ideas, take on the role of a producer who helps them to succeed.
+
+## This is complicated ##
+
+# chapter 13 - Start with Opportunities #
+
+opportunity = rock zero
+## Have Conversations About Opportunities ##
+## Dig Deeper, Trash It, or Thing About It
+
+Make a story map of the workflows in your current product to spot opportunities
+
+## Story Mapping and Opportunities ##
+## Be Picky ##
+
+# chapter 14 - Using Discovery to Build Shared Understanding #
+
+## Discovery isn’t about building software ##
+
+Discovery work is about answering questions
+* what problems are we really solving?
+* What solution could be valuable to our organisation and to customers buying or adopting the product?
+* What does a usable solution look like?
+* What’s feasible to build given the time and the tools we have?
+
+> If the only thing you create while making sense of a big, ambiguous opportunity is smaller stories, than you are probably doing it wrong.
+
+## Four essential steps to discovery ##
+1. Frame the idea from a business perspecitve
+2. Understand Customers and users and how you are helping them
+   Sketch simple personas
+     Good personas are build from good data gathered through solid research.
+     > Build lightweight personas together to build shared understanding an empathy within the team.
+   Create organisational profiles or orgzonas
+   Map how users work today
+3. Envision your solution
+   Map your solution
+     Imagine the life of our users with the solution we are building in place
+   Words and pictures
+     > Visualise your user interface to build shared understanding of the solution.
+   Validate completeness
+   Validate engineering concernes
+   Play “What about..."
+   Don’t celebrate yet
+4. Minimise and plan the smallest viable solution and how you’ll build it.
+   > If you are not cutting away more ideas then you keep, than you are probably not doing discovery work right.
+   There is always too much
+     > Viable means successful for a specific business strategy, target customers, and users.
+   The secret to prioritisation
+     > Prioritise specific business goals, customers, and users, and then their goals, before prioritising features.
+
+## Discovery Activities, Discussions and Artifacts ##
+## Discovery is for building shared understanding ##
+
+
+# chapter 15 - Using discovery for validated learning #
+## We are wrong most of the time ##
+If you releas it and a fraction of your customers uses it, you have to support it for ever
+only ~20% of the features we release have a positive outcome for our customers
+~60% of the features have no outcome
+and ~20% of the features have to be considered as a failure (users want the old version back)
+
+## The bad old days ##
+## Empathize, Focus, Ideate, Prototype, Test
+> Talk directly to customers and users. Experience the challenges you are helping them with firsthand
+> Really focus on one or a few problems. State them specifically.
+> Deliberately come up with multiple possible solutions to a customer and user problems.
+> Build simple prototypes to explore your best solutions. Advance prototypes to a level of fidelity that allows users and customers to evaluate whether the solution really solves the problem.
+> Get your solution in front of people who would buy or use your product. Don’t expect them to be a success at first. Iterate and improve them.
+
+## How to mess up a good thing ##
+## Short validated learning loops ##
+## How lean startup thinking changes product design ##
+## Name your risky assumptions ##
+## Design and build a small test ##
+## Measure by Running Your Test with Customers and Users ##
+## Rethink Your Solution and Your Assumptions ##
+> In a lean startup approach, failing to learn is frequently the biggest failure.
+## Stories and Story Maps ##
+
+
+# chapter 16 - Refine, Define, and Build
+
+
+# chapter 17 - Learn from everything you Build
+
+
+# chapter 18 - Learn from 
+
+
+zurück 
+15:32   	6:26 	3 	ERX, ME, IC, ICE 	154,50 EUR  
+Zur Buchung
+	211,50 EUR 
+Zur Buchung
+Karlsruhe Hbf 	So, 30.08.15 	an 	21:58 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
