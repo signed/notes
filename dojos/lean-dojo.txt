@@ -1,2 +1,0 @@
-code dojo https://www.slideshare.net/chrismdp/lean-code
-https://github.com/marcnazarian/LeanCodeChallenge/blob/master/src/lean/Cashier.java

@@ -1,5 +1,0 @@
-https://github.com/xebia/microservices-breaking-up-a-monolith/tree/master/exercises
-
-
-http://combomicroservices.blogspot.co.uk/
-https://github.com/chookie/comboserver.js
