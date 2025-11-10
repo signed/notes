@@ -1,0 +1,27 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "useTab": false,
+  "tabSize": 2,
+  "lineWrap": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "github",
+    "Expander",
+    "reddit",
+    "audiobook",
+    "analytics",
+    "homebrew",
+    "Diskussion",
+    "Topologies"
+  ],
+  "readableLineLength": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "emacsyKeys": false,
+  "showUnsupportedFiles": true
+}

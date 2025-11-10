@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "b30451417b6c1e0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "41c0b9202298d40c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ideas/link-me.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a34d7d33be598594",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fa456fc50d88a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e81fc9ee0157cd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "05d5efd0c2861dd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "distribut",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292
+  },
+  "right": {
+    "id": "dc558ae59b1d5a42",
+    "type": "split",
+    "children": [
+      {
+        "id": "e222208843cbdc22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef9a6bb57896328f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c03156fa3c7a68f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ideas/link-me.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be52b953490fcd51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9550362aa5270f52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ideas/link-me.md"
+              }
+            }
+          },
+          {
+            "id": "f4b2e9cc09fbd4a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41c0b9202298d40c",
+  "lastOpenFiles": [
+    "tools/web/lit.md",
+    "ideas/link-me.md",
+    "tools/web/vite.md",
+    "tools/node.md",
+    "technology/web-comonents.md",
+    "technology/containers.md",
+    "technology/voice-to-speech-to-voice.md",
+    "people/logmein/Albrecht Byle.md",
+    "remote-work.md",
+    "Customer Effort Score.md"
+  ]
+}
